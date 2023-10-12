@@ -5,14 +5,14 @@ const CONFIG = {
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "frontend developer",
     bio: "I develop everything using node.",
-    email: "morethanmin.dev@gmail.com",
-    linkedin: "morethanmin",
-    github: "morethanmin",
+    email: "marls@gmail.com",
+    linkedin: "",
+    github: "ShellMars",
     instagram: "",
   },
   projects: [
     {
-      name: `morethan-log`,
+      name: `Mars home`,
       href: "https://github.com/ShellMars/ShellMars.github.io",
     },
   ],
